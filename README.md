@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 
 <p align="center" width="100%">
-<img src="assets/IO.png" width="90%" >
+<img src="assets/IO.png" width="65%" >
 </p>
 
 
