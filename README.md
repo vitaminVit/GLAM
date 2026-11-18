@@ -56,13 +56,13 @@ pip install -r requirements.txt
 
 **MME-Hallucination**
 <p align="center" width="100%">
-<img src="assets/3.png" width="65%" alt="MME-Hallucination results">
+<img src="assets/3.png" width="40%" alt="MME-Hallucination results">
 </p>
 
 
 
 <p align="center" width="100%">
-<img src="assets/IO.png" width="65%" >
+<img src="assets/IO.png" width="70%" >
 </p>
 
 
