@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ## Results
 ### CHAIR
 <p align="center" width="100%">
-<img src="assets/1.png" width="40%" alt="CHAIR results">
+<img src="assets/1.png" width="90%" alt="CHAIR results">
 </p>
 
 ### POPE
